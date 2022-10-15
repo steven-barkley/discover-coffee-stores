@@ -19,3 +19,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --text-orange: rgba(255, 165, 0, 1);
+  --text-purple-light: rgba(143, 153, 251, 1);
+  --text-black: rgba(17, 24, 39, 1);
+  --text-white-100: rgba(229, 231, 235, 1);
+  --text-yellowgreen: rgba(154, 205, 50, 1);
+}
