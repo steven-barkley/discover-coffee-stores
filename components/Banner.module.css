@@ -42,7 +42,7 @@
 }
 
 .button {
-    background-color: var(--text-purple-dark);
+    background-color: var(--text-purple-light);
     cursor: pointer;
     color: white;
     outline: 0;
@@ -69,7 +69,7 @@
 }
 
 .button:hover {
-    background-color: var(--text-purple-dark);
+    background-color: var(--text-orange);
 }
 
 /** 
