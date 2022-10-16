@@ -1,11 +1,9 @@
 import '../styles/globals.css'
-import { Fragment } from 'react'
+//import { Fragment } from 'react'
 
 
 function MyApp( { Component, pageProps } ) {
-  return <Fragment>
-    <Component { ...pageProps } />
-  </Fragment>
+  return <Component { ...pageProps } />
 }
 
 
